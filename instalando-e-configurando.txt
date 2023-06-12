@@ -1,0 +1,3 @@
+Para instalar o Git e o Github no PC, basta segir as instruções nesse site:
+  https://github.com/
+  https://git-scm.com/downloads

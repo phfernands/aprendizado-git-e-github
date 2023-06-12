@@ -1,0 +1,1 @@
+Branchs são ramificações criadas em paralelo a ramificação principal da aplicação. As branchs são criadas para editar os arquivos da aplicação sem afetar os arquivos da ramificação principal.

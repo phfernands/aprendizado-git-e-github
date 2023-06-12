@@ -1,0 +1,1 @@
+Git é um sistema de controle de versôes de aplicações. E o GitHub é uma plataforma de hospedagem desses versionamentos das aplicações feitas no Git.

@@ -1,0 +1,5 @@
+Principais comandos:
+  - git init: Para inicializar o Git numa aplicação
+  - git add [nome do arquivo] ou [.]: Para adicionar as aplicações na área de monitoramento.
+  - git status: Mostra em qual ciclo se encontra os arquivos da aplicação.
+  -git commit -m [Mensagem]: Envia as aplicações para o último estágio, onde as aplicações estâo prontas para serem enviadas parea o Github.

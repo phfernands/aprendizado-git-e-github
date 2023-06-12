@@ -1,0 +1,1 @@
+Para enviar os arquivos ja versionados no Git para o Github, voce precisa criar um repositório no Github e copiar o HTTPS do repositorio. Tem como também fazer isso via SSH.
